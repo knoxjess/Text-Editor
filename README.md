@@ -30,7 +30,7 @@ To utilize the application via command line, execute the subsequent command:
 
 ## Credits
 starter code provided by [Xandromus](https://github.com/coding-boot-camp/cautious-meme)
-### Live Application
+
 
 ## Questions
 
